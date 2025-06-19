@@ -5,7 +5,7 @@ Project Description: Transferring raw data into a staging table called staging_t
                       Filling in the rows with details of lay-offs wherever possible (likeAirbnb,etc).
                       Data-Exploration completed using SQl join and other relavant queries as attached in the Exploration file
         
-🔗 Links:
+🔗 Links: https://github.com/kinshook/World_Layoffs/blob/revised_Data/WorldLAYOFFS.sql
 
 📊World-Layoffs Visualization Dashboard
 An interactive visual tool built to analyse the impact of layoffs on varied industries and companies globally.
