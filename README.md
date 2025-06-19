@@ -1,12 +1,11 @@
 World-Layoffs Data Cleaning and Exploration using SQL 
 
-Project Description: Transferring raw data into a staging table called staging_table and preapring it to clean. Using CTE, window functions and other queries
-                      to index data and remove any existing duplicates,extra whitespaces or format issues. Thereon, removal of NULLS wherever necesaary
-                      and replacing NULL(text) with null type. Deletipn and updation of table by removing the null rows where insights weren't possible.
+Project Description: Transferring raw data into a staging table called staging_table and preapring it to clean.                         Using CTE, window functions and other queries to index data and remove any existing                                duplicates,extra whitespaces or format issues. Thereon, removal of NULLS wherever necesaary
+                      and replacing NULL(text) with null type. Deletion and updation of table by removing the null                       rows where insights weren't possible.
                       Filling in the rows with details of lay-offs wherever possible (likeAirbnb,etc).
                       Data-Exploration completed using SQl join and other relavant queries as attached in the Exploration file
         
-🔗 Links:
+🔗 Links:f8763df159b9f601cbd6787ceb2506889a51274f
 
 📊World-Layoffs Visualization Dashboard
 An interactive visual tool built to analyse the impact of layoffs on varied industries and companies globally.
